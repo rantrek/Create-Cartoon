@@ -1,2 +1,2 @@
 # Create-Cartoon
-Create cartoon of image - OpenCV
+Create cartoon effect of image - OpenCV
