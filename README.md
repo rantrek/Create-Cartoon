@@ -1,6 +1,4 @@
-# Create-Cartoon
-
-image processing, computer vision, OpenCV
+# Create-Cartoon-Effect
 
 ## Objective
 
